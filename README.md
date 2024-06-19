@@ -28,9 +28,15 @@ A weather website is a online platform that provides detailed and up-to-date inf
 
 [Click here for code](Weather_website)
 
-[Output Video](https://www.linkedin.com/posts/mani-sankar-pasala_bharatintern-internship-webdevelopment-activity-7151955661872877568-bhpe?utm_source=share&utm_medium=member_desktop)s
+[Output Video](https://www.linkedin.com/posts/mani-sankar-pasala_bharatintern-internship-webdevelopment-activity-7151955661872877568-bhpe?utm_source=share&utm_medium=member_desktop)
 
 **TASK 2: Netflix Home Page**
+
+A netflix website is a alternative home page of Netflix which is a online streaming platform.
+
+[Click here for code](Netflix_home)
+
+[Output Video](https://www.linkedin.com/posts/mani-sankar-pasala_bharatintern-internship-webdevelopment-activity-7152593446061441025-1LaN?utm_source=share&utm_medium=member_desktop)
 
 ## License
 
