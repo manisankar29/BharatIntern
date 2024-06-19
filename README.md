@@ -28,7 +28,9 @@ A weather website is a online platform that provides detailed and up-to-date inf
 
 [Click here for code](Weather_website)
 
-**TASK 2: Netflix Home Page**s
+[Output Video](https://www.linkedin.com/posts/mani-sankar-pasala_bharatintern-internship-webdevelopment-activity-7151955661872877568-bhpe?utm_source=share&utm_medium=member_desktop)s
+
+**TASK 2: Netflix Home Page**
 
 ## License
 
