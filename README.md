@@ -20,6 +20,12 @@ Bharat Intern is an Indian company providing diverse internship opportunities to
 
 [Click here](https://www.linkedin.com/posts/mani-sankar-pasala_bharatintern-webdevelopment-virtualinternship-activity-7167847783683612672-YJ8h?utm_source=share&utm_medium=member_desktop)
 
+## Tasks
+
+**TASK 1: Weather Website**
+
+**TASK 2: Netflix Home Page**s
+
 ## License
 
 [MIT License](LICENSE)
